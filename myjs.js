@@ -1,0 +1,1 @@
+$('.actcontent').blurjs({ source: 'body', radius: 30, cache: true, overlay: 'rgba(255,255,255,.15)'});

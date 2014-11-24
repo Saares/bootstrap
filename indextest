@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <!--  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico"> -->
+
+    <title>Homepage | MEINESEITEHIER</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/mycss.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Cover</h3>
+              <ul class="nav masthead-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">Impressum</a></li>
+                <li><a href="#">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="inner cover">
+            <h1 class="cover-heading">Heading1</h1>
+            <p class="lead">Hier kommt irgendein Text ich habe keine Ahnung über was meine Homepage gehen soll aber das ist auch
+            eigentliche rstmal nebensächlich #Rechtschreibung.</p>
+          <!--  <p class="lead">
+              <a href="#" class="btn btn-lg btn-default">Mehr Links</a>
+            </p> -->
+
+          </div>
+
+          <div class="actcontent">
+            <p>
+              Das Wort Universum wurde im 17. Jahrhundert von Philipp von Zesen durch das Wort Weltall eingedeutscht. Während der Begriff des Universums alles, also auch Sterne und Planeten wie die Erde, einschließt, wird mit Weltraum oft nur der Raum außerhalb der Erdatmosphäre, bzw. allgemein der Raum fern von Planeten- und Mondoberflächen, bezeichnet.
+
+              Da der Übergang von der Erdatmosphäre zum Weltraum fließend ist, existieren mehrere festgelegte Grenzen. International am gebräuchlichsten ist die Definition der Fédération Aéronautique Internationale, nach der der Weltraum in einer Höhe von 100 Kilometern beginnt (Kármán-Linie). Dort ist die Geschwindigkeit, die benötigt wird, um Auftrieb zum Fliegen zu erhalten, gerade genauso hoch, wie die Umlaufgeschwindigkeit eines Raumflugkörpers, der durch die Schwerkraft der Erde auf einer Kreisbahn gehalten wird.[3] Nach der Definition der NASA und der US Air Force beginnt der Weltraum bereits in einer Höhe von etwa 80 Kilometern (50 Meilen) über dem Boden. Eine völkerrechtlich verbindliche Höhengrenze gibt es nicht.
+
+              Die heute allgemein anerkannte Theorie zur Beschreibung der großräumigen Struktur des Universums ist die allgemeine Relativitätstheorie von Albert Einstein. Auch die Quantenphysik hat wichtige Beiträge zum Verständnis speziell des frühen Universums geliefert, in dem die Dichte und Temperatur sehr hoch waren und viele Prozesse unter Beteiligung von Elementarteilchen abliefen (Astroteilchenphysik). Wahrscheinlich wird ein erweitertes Verständnis des Universums erst erreicht, wenn die Physik eine Theorie entwirft, die die allgemeine Relativitätstheorie mit der Quantenphysik vereint. Diese wird T.O.E. (Theory Of Everything) oder auch Weltformel genannt. In dieser Theorie der Quantengravitation sollen die vier Grundkräfte der Physik (elektromagnetische Kraft, Gravitation, starke und schwache Kernkraft) einheitlich erklärt werden. Schon Albert Einstein hat sich viele Jahre um die Aufstellung einer solchen allumfassenden Theorie bemüht, allerdings ohne Erfolg. Zudem waren in seinem Konzept die starke und schwache Wechselwirkung nicht enthalten, so dass seine Suche nach der Weltformel auch von daher – weil unvollständig – zum Scheitern verurteilt war. Erst in den 1960er Jahren standen die mathematischen Voraussetzungen für die Entwicklung einer Vereinigungstheorie zur Verfügung, womit die Suche der Physiker nach diesem großen einheitlichen Bild der Welt begann.
+            </p>
+            </div>
+
+        </div>
+
+
+
+      </div>
+
+
+
+    </div>
+
+    <div class="mastfoot">
+            <div class="inner2">
+              <p>Background Image by <a href="http://www.eso.org/public/images/eso1103a/">European Southern Observatory</a>.</p>
+              <p class="klein">
+              Website by <a href="daniela.raddatz@mni.thm.de">@Daniela Raddatz</a>, 2014.
+              </p>
+            </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/docs.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
