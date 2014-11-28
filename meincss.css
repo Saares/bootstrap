@@ -3,6 +3,30 @@
 	text-align: center;
 }
 
+/* unvisited link */
+a:link {
+    color: gray;
+}
+
+/* visited link */
+a:visited {
+    color: gray;
+}
+
+/* mouse over link */
+a:hover {
+	text-decoration: none;
+    color: white;
+}
+
+/* selected link */
+a:active {
+	text-decoration: none;
+    color: white;
+}
+
+
+
 .jumbotron .container h1 {
 	padding-top: 20px;
 	color: white;

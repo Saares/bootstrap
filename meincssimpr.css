@@ -1,0 +1,26 @@
+#content {
+	padding-top: 100px;
+}
+
+.impressum {
+	background-image: url("img/pattern3.png");
+	color: black;
+	padding: 20px;
+	border: 2px solid;
+    border-radius: 25px;
+}
+
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+}
+
+p strong {
+	color: rgb(190,140,70);
+	letter-spacing: 4px;
+	/*font-family: 'Bitter', serif;*/
+}
+
+h1 {
+	color: white;
+}
