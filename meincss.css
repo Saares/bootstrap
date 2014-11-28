@@ -5,12 +5,12 @@
 
 /* unvisited link */
 a:link {
-    color: gray;
+    color: #ffffff;
 }
 
 /* visited link */
 a:visited {
-    color: gray;
+    color: #ffffff;
 }
 
 /* mouse over link */
