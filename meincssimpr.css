@@ -3,19 +3,19 @@
 }
 
 .impressum {
-	background-image: url("img/pattern3.png");
+	background-image: url("img/pattern32.png");
 	color: black;
 	padding: 20px;
 	border: 2px solid;
     border-radius: 25px;
 }
 
-p {
+.impressum p {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 20px;
 }
 
-p strong {
+h2 {
 	color: rgb(190,140,70);
 	letter-spacing: 4px;
 	/*font-family: 'Bitter', serif;*/
