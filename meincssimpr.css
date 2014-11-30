@@ -5,10 +5,11 @@
 .impressum {
 	background-image: url("img/pati.png");
 	color: black;
-	padding: 20px;
+	padding: 100px;
 	border: 2px solid;
     border-radius: 25px;
     font-size: 20px;
+    text-align: justify;
 }
 
 .impressum p {
