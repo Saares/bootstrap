@@ -8,11 +8,11 @@
 	padding: 20px;
 	border: 2px solid;
     border-radius: 25px;
+    font-size: 20px;
 }
 
 .impressum p {
 	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 20px;
 }
 
 h2 {
